@@ -1,5 +1,5 @@
 ### 怎么创建一个导航永久发布页？
-先看小样：带内容哦！   下面是详细介绍以及代码
+先看小样：带内容哦！ https://laosiji-cyou.github.io/yongjiufabuye/  下面是详细介绍以及代码
 ## 要创建一个**导航永久发布页**，你需要综合考虑几个方面，包括网页设计、域名注册、网站托管以及内容更新等。以下是一个简化的步骤指南，帮助你理解如何做出一个简单且功能完备的永久发布页：
 
 ### 1. **规划导航页面的功能和结构**
@@ -16,86 +16,88 @@
 
    **简单的导航页面 HTML 示例**：
    ```html
+
    <!DOCTYPE html>
-   <html lang="en">
-   <head>
-       <meta charset="UTF-8">
-       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <title>导航永久发布页</title>
-       <style>
-           body {
-               font-family: Arial, sans-serif;
-               background-color: #f4f4f4;
-               margin: 0;
-               padding: 0;
-           }
-           header {
-               background-color: #333;
-               color: white;
-               padding: 10px 0;
-               text-align: center;
-           }
-           .content {
-               margin: 20px;
-           }
-           .category {
-               background-color: #ddd;
-               padding: 10px;
-               margin-bottom: 10px;
-               border-radius: 5px;
-           }
-           .category a {
-               color: #333;
-               text-decoration: none;
-               font-size: 18px;
-               display: block;
-               padding: 8px;
-               margin: 5px 0;
-               background-color: #fff;
-               border-radius: 5px;
-           }
-           footer {
-               background-color: #333;
-               color: white;
-               text-align: center;
-               padding: 10px 0;
-               position: fixed;
-               width: 100%;
-               bottom: 0;
-           }
-       </style>
-   </head>
-   <body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>导航永久发布页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .content {
+            margin: 20px;
+        }
+        .category {
+            background-color: #ddd;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .category a {
+            color: #333;
+            text-decoration: none;
+            font-size: 18px;
+            display: block;
+            padding: 8px;
+            margin: 5px 0;
+            background-color: #fff;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
 
-   <header>
-       <h1>导航永久发布页</h1>
-   </header>
+<header>
+    <h1>导航永久发布页</h1>
+</header>
 
-   <div class="content">
-       <div class="category">
-           <h2>免费视频</h2>
-           <a href="https://example.com/video1" target="_blank">视频 1</a>
-           <a href="https://example.com/video2" target="_blank">视频 2</a>
-           <a href="https://example.com/video3" target="_blank">视频 3</a>
-       </div>
-       <div class="category">
-           <h2>工具下载</h2>
-           <a href="https://example.com/download1" target="_blank">工具 1</a>
-           <a href="https://example.com/download2" target="_blank">工具 2</a>
-       </div>
-       <div class="category">
-           <h2>热门网站</h2>
-           <a href="https://example.com/website1" target="_blank">网站 1</a>
-           <a href="https://example.com/website2" target="_blank">网站 2</a>
-       </div>
-   </div>
+<div class="content">
+    <div class="category">
+        <h2>免费视频</h2>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">最新地址1</a>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">最新地址2</a>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">最新地址3</a>
+    </div>
+    <div class="category">
+        <h2>工具下载</h2>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">工具 1</a>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">工具 2</a>
+    </div>
+    <div class="category">
+        <h2>导航发布页</h2>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">发布页1</a>
+        <a href="https://最新.w1af3d.cyou/《福利》" target="_blank">发布页2</a>
+    </div>
+</div>
 
-   <footer>
-       <p>联系邮箱：[support@example.com](mailto:support@example.com)</p>
-   </footer>
+<footer>
+    <p>联系邮箱：huifudizhi@gmail.com</p>
+</footer>
 
-   </body>
-   </html>
+</body>
+</html>
+
    ```
 
    该模板包含了一个简单的导航页面，分为几个分类，每个分类下有多个链接。你可以在页面内容部分随时增加或删除导航链接。
